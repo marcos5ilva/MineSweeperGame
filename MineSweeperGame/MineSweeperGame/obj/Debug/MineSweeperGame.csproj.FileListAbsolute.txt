@@ -1,0 +1,7 @@
+D:\LDSBC\FALL_TERM2018\CS270_Code\MineSweeperGame\MineSweeperGame\bin\Debug\MineSweeperGame.exe.config
+D:\LDSBC\FALL_TERM2018\CS270_Code\MineSweeperGame\MineSweeperGame\bin\Debug\MineSweeperGame.exe
+D:\LDSBC\FALL_TERM2018\CS270_Code\MineSweeperGame\MineSweeperGame\bin\Debug\MineSweeperGame.pdb
+D:\LDSBC\FALL_TERM2018\CS270_Code\MineSweeperGame\MineSweeperGame\obj\Debug\MineSweeperGame.csprojAssemblyReference.cache
+D:\LDSBC\FALL_TERM2018\CS270_Code\MineSweeperGame\MineSweeperGame\obj\Debug\MineSweeperGame.csproj.CoreCompileInputs.cache
+D:\LDSBC\FALL_TERM2018\CS270_Code\MineSweeperGame\MineSweeperGame\obj\Debug\MineSweeperGame.exe
+D:\LDSBC\FALL_TERM2018\CS270_Code\MineSweeperGame\MineSweeperGame\obj\Debug\MineSweeperGame.pdb

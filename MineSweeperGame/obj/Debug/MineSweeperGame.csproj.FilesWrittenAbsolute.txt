@@ -1,0 +1,8 @@
+/media/marcos/01D414A38F79DCA0/LDSBC/FALL_TERM2018/CS270_Code/MineSweeperGame/MineSweeperGame/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/media/marcos/01D414A38F79DCA0/LDSBC/FALL_TERM2018/CS270_Code/MineSweeperGame/MineSweeperGame/bin/Debug/MineSweeperGame.exe.config
+/media/marcos/01D414A38F79DCA0/LDSBC/FALL_TERM2018/CS270_Code/MineSweeperGame/MineSweeperGame/bin/Debug/MineSweeperGame.exe.mdb
+/media/marcos/01D414A38F79DCA0/LDSBC/FALL_TERM2018/CS270_Code/MineSweeperGame/MineSweeperGame/bin/Debug/MineSweeperGame.pdb
+/media/marcos/01D414A38F79DCA0/LDSBC/FALL_TERM2018/CS270_Code/MineSweeperGame/MineSweeperGame/bin/Debug/MineSweeperGame.exe
+/media/marcos/01D414A38F79DCA0/LDSBC/FALL_TERM2018/CS270_Code/MineSweeperGame/MineSweeperGame/obj/Debug/MineSweeperGame.exe
+/media/marcos/01D414A38F79DCA0/LDSBC/FALL_TERM2018/CS270_Code/MineSweeperGame/MineSweeperGame/obj/Debug/MineSweeperGame.exe.mdb
+/media/marcos/01D414A38F79DCA0/LDSBC/FALL_TERM2018/CS270_Code/MineSweeperGame/MineSweeperGame/obj/Debug/MineSweeperGame.pdb
