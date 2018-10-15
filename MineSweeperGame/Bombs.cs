@@ -19,41 +19,44 @@ using System.Threading.Tasks;
 
 namespace MineSweeperGame
 {
-    class Bombs
+    public class Bombs
     {
         
-        public int[,] randomBomb()
+        private readonly int emptyCell = 0;
+        private readonly int bombCell = 100;
+       
+        public Bombs()
+        {
+
+        }
+
+       
+        public int[,] AddRandom(int gameBoardRows, int gameBoardColumns, int numberOfBombs)
         {
             //Randomly place the bombs in the game board
-            
-            Random rnd = new Random();
-            int randRow = 0;
-            int randCol = 0;
-            int row = 5;
-            int col = 10;
-            int bombCount = 10;
-            int emptyCell = 0;
-            int bombCell = 1;
-            int[,] boardArray = new int[row, col];
+
+
+            int[,] boardArray = new int[gameBoardRows, gameBoardColumns];
 
             //0 = empty and 1= bomb
             //Populating array with 0 (empty spaces)
-            for (int i = 0; i < 5; i++)
+            for (int i = 0; i < gameBoardRows; i++)
             {
-                for (int j = 0; j < 10; j++)
+                for (int j = 0; j < gameBoardColumns; j++)
                 {
                     boardArray[i, j] = emptyCell;
                 }
             }
 
             //Generate random positions in the array for the bombs
-            while (bombCount >0) { 
-                randRow = rnd.Next(0, row);
-                randCol = rnd.Next(0, col);
+            Random rnd = new Random();
+            while (numberOfBombs >0) { 
+               int randRow = rnd.Next(0, gameBoardRows);
+               int randCol = rnd.Next(0, gameBoardColumns);
                 if (boardArray[randRow, randCol] != bombCell)
                 {
                     boardArray[randRow, randCol] = bombCell;
-                    bombCount--;
+                    numberOfBombs--;
                 }
             }
 

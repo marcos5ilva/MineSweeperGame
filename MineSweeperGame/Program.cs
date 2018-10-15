@@ -35,24 +35,46 @@ using System.Threading.Tasks;
 
 namespace MineSweeperGame
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
-            //creating  a array to store the game board
-            int[,] myBoard = new int[5, 10];
+            
+            int rows =8;
+            int cols = 8;
+            int qtdBombs =10;
+            string playerName = " ";
 
             
-            Bombs myBombs = new Bombs();
-            GameBoard gameBoard = new GameBoard();
+            Console.WriteLine("Enter number of rows: ");
+            rows = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Enter number of columns: ");
+            cols = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Enter number of Bombs: ");
+            qtdBombs = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Your Name : ");
+            playerName = Console.ReadLine();
+
+            Console.WriteLine("Let's play "+playerName+"!");
+
+            Console.Clear();
+
+            //creating  a array to store the game board
+            GameLevel myGameLevel = new GameLevel(rows, cols, qtdBombs, playerName);
+            GameBoard gameBoard = new GameBoard(myGameLevel);
 
             //storing the random gameboard result
-            myBoard = myBombs.randomBomb();
+           // myBoard = myBombs.Add();
 
             //drawing header
             gameBoard.DrawHeader();
+            gameBoard.AdjacentBombCounter();
+            
             //drawing the gameboard
-            gameBoard.DrawCells(myBoard);
+            gameBoard.DrawCells();
         }
     }
 }

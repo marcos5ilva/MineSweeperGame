@@ -19,7 +19,7 @@ using System.Threading.Tasks;
 
 namespace MineSweeperGame
 {
-    class GameEventHandle
+    internal class GameEventHandle
     {
         //Check for user interactions
         /*

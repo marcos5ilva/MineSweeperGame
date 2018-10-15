@@ -18,21 +18,19 @@
         <e p="obj" t="ExcludeRecursive" />
       </e>
       <e p="MineSweeperGame.sln" t="IncludeFlat" />
-      <e p="MineSweeperTests" t="IncludeRecursive">
-        <e p="MineSweeperTests.csproj" t="IncludeRecursive" />
+      <e p="MineSweeperGameTest" t="IncludeRecursive">
+        <e p="MineSweeperGameTest.csproj" t="IncludeRecursive" />
         <e p="Properties" t="Include">
           <e p="AssemblyInfo.cs" t="Include" />
         </e>
-        <e p="UnitTest1.cs" t="Include" />
+        <e p="Tests.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive" />
-        <e p="packages.config" t="Include" />
       </e>
-      <e p="packages" t="ExcludeRecursive">
-        <e p="MSTest.TestAdapter.1.3.2/build/_common/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll" t="Include" />
-        <e p="MSTest.TestAdapter.1.3.2/build/_common/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll" t="Include" />
-        <e p="MSTest.TestAdapter.1.3.2/build/_common/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll" t="Include" />
+      <e p="TestProject2" t="IncludeRecursive">
+        <e p="TestProject2.csproj" t="IncludeRecursive" />
       </e>
+      <e p="packages" t="ExcludeRecursive" />
     </e>
   </component>
 </project>

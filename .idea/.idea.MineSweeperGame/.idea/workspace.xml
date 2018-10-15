@@ -1,7 +1,224 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="514f1f42-00a5-40eb-bd17-b771379a9f4a" name="Default Changelist" comment="" />
+    <list default="true" id="514f1f42-00a5-40eb-bd17-b771379a9f4a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitgnore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitgnore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MineSweeperGame/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MineSweeperGame/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MineSweeperGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MineSweeperGame/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/MineSweeperGame/v15/Server/sqlite3/storage.ide" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/MineSweeperGame/v15/Server/sqlite3/storage.ide" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/MineSweeperGame/v15/Server/sqlite3/storage.ide-shm" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/MineSweeperGame/v15/Server/sqlite3/storage.ide-shm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/MineSweeperGame/v15/Server/sqlite3/storage.ide-wal" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/MineSweeperGame/v15/Server/sqlite3/storage.ide-wal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame.sln" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/App.config" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/App.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/Bombs.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/Bombs.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/GameBoard.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/GameBoard.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/GameEventHandle.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/GameEventHandle.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/MineSweeperGame.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/MineSweeperGame.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/MineSweeperGame.sln" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/MineSweeperGame.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/MineSweeperGame/App.config" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/MineSweeperGame/App.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/MineSweeperGame/DrawGameBoard.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/MineSweeperGame/DrawGameBoard.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/MineSweeperGame/GameBoard.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/MineSweeperGame/GameBoard.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/MineSweeperGame/GameEventHandle.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/MineSweeperGame/GameEventHandle.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/MineSweeperGame/InitGame.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/MineSweeperGame/InitGame.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/MineSweeperGame/MineSweeperGame.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/MineSweeperGame/MineSweeperGame.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/MineSweeperGame/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/MineSweeperGame/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/MineSweeperGame/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/MineSweeperGame/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/MineSweeperGame/bin/Debug/MineSweeperGame.exe.config" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/MineSweeperGame/bin/Debug/MineSweeperGame.exe.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/MineSweeperGame/obj/Debug/MineSweeperGame.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/MineSweeperGame/obj/Debug/MineSweeperGame.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/MineSweeperTests/MineSweeperTests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/MineSweeperTests/MineSweeperTests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/MineSweeperTests/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/MineSweeperTests/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/MineSweeperTests/UnitTest1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/MineSweeperTests/UnitTest1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/MineSweeperTests/packages.config" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/MineSweeperTests/packages.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/bin/Debug/MineSweeperGame.exe.config" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/bin/Debug/MineSweeperGame.exe.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/bin/Debug/MineSweeperGame.exe.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/bin/Debug/MineSweeperGame.exe.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/obj/Debug/MineSweeperGame.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/obj/Debug/MineSweeperGame.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/obj/Debug/MineSweeperGame.exe.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/obj/Debug/MineSweeperGame.exe.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestAdapter.1.3.2/build/net45/MSTest.TestAdapter.props" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestAdapter.1.3.2/build/net45/MSTest.TestAdapter.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestAdapter.1.3.2/build/net45/MSTest.TestAdapter.targets" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestAdapter.1.3.2/build/net45/MSTest.TestAdapter.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestAdapter.1.3.2/build/netcoreapp1.0/MSTest.TestAdapter.props" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestAdapter.1.3.2/build/netcoreapp1.0/MSTest.TestAdapter.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestAdapter.1.3.2/build/uap10.0/MSTest.TestAdapter.props" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestAdapter.1.3.2/build/uap10.0/MSTest.TestAdapter.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestAdapter.1.3.2/build/uap10.0/MSTest.TestAdapter.targets" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestAdapter.1.3.2/build/uap10.0/MSTest.TestAdapter.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.XML" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.XML" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.XML" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.XML" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/de/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/de/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/de/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/de/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/es/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/es/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/es/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/es/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/it/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/it/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/it/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/it/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/ja/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/ja/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/ja/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/ja/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/ko/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/ko/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/ko/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/ko/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/pt/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/pt/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/pt/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/pt/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/net45/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.XML" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.XML" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/Microsoft.VisualStudio.TestPlatform.TestFramework.XML" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/Microsoft.VisualStudio.TestPlatform.TestFramework.XML" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/de/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/de/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/de/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/de/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/es/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/es/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/es/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/es/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/it/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/it/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/it/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/it/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/ja/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/ja/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/ja/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/ja/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/ko/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/ko/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/ko/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/ko/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/pt/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/pt/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/pt/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/pt/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.XML" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.XML" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/Microsoft.VisualStudio.TestPlatform.TestFramework.XML" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/Microsoft.VisualStudio.TestPlatform.TestFramework.XML" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/de/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/de/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/de/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/de/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/es/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/es/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/es/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/es/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/it/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/it/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/it/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/it/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/ja/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/ja/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/ja/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/ja/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/ko/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/ko/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/ko/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/ko/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/pt/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/pt/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/pt/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/pt/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperGame/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperTests/MineSweeperTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperTests/MineSweeperTest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperTests/MineSweeperTests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperTests/MineSweeperTests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperTests/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperTests/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperTests/UnitTest1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSweeperTests/packages.config" beforeDir="false" afterPath="$PROJECT_DIR$/MineSweeperTests/packages.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/net45/MSTest.TestAdapter.props" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/net45/MSTest.TestAdapter.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/net45/MSTest.TestAdapter.targets" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/net45/MSTest.TestAdapter.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/netcoreapp1.0/MSTest.TestAdapter.props" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/netcoreapp1.0/MSTest.TestAdapter.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/uap10.0/MSTest.TestAdapter.props" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/uap10.0/MSTest.TestAdapter.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/uap10.0/MSTest.TestAdapter.targets" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestAdapter.1.3.2/build/uap10.0/MSTest.TestAdapter.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.XML" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.XML" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.XML" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.XML" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/de/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/de/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/de/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/de/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/es/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/es/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/es/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/es/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/it/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/it/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/it/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/it/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/ja/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/ja/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/ja/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/ja/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/ko/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/ko/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/ko/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/ko/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/pt/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/pt/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/pt/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/pt/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.XML" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.XML" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/Microsoft.VisualStudio.TestPlatform.TestFramework.XML" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/Microsoft.VisualStudio.TestPlatform.TestFramework.XML" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/de/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/de/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/de/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/de/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/es/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/es/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/es/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/es/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/it/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/it/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/it/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/it/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/ja/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/ja/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/ja/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/ja/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/ko/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/ko/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/ko/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/ko/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/pt/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/pt/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/pt/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/pt/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.XML" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.XML" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/Microsoft.VisualStudio.TestPlatform.TestFramework.XML" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/Microsoft.VisualStudio.TestPlatform.TestFramework.XML" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/de/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/de/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/de/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/de/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/es/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/es/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/es/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/es/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/it/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/it/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/it/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/it/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/ja/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/ja/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/ja/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/ja/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/ko/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/ko/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/ko/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/ko/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/pt/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/pt/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/pt/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/pt/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,43 +229,46 @@
     <session id="-1896941092">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="2" />
+          <entry key="cs" value="7" />
           <entry key="csproj" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="2" />
+          <entry key="C#" value="7" />
           <entry key="Csproj" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="31" />
+          <entry key="cs" value="91" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="31" />
+          <entry key="C#" value="91" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MineSweeperGame/MineSweeperGame.csproj">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
+            <state relative-caret-position="660">
               <caret line="44" selection-start-line="44" selection-end-line="44" />
             </state>
           </provider>
@@ -57,16 +277,86 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MineSweeperGame/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="49" column="16" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
+            <state relative-caret-position="241">
+              <caret line="69" column="12" selection-start-line="69" selection-start-column="12" selection-end-line="69" selection-end-column="12" />
               <folding>
-                <marker date="1538592144732" expanded="true" signature="0:231" ph="/* Program/Project: Assignment 1 Mine Sweeper Game ... */" />
-                <marker date="1538592144732" expanded="true" signature="233:730" ph="/* Gameplay: ... */" />
-                <marker date="1538592144732" expanded="true" signature="732:821" ph="/* Classes ... */" />
-                <marker date="1538592144732" expanded="false" signature="829:938" ph="..." />
-                <marker date="1538592144732" expanded="true" signature="965:1505" ph="{...}" />
-                <marker date="1538592144732" expanded="true" signature="985:1503" ph="{...}" />
-                <marker date="1538592144732" expanded="true" signature="1031:1497" ph="{...}" />
+                <marker date="1539199672167" expanded="true" signature="0:231" ph="/* Program/Project: Assignment 1 Mine Sweeper Game ... */" />
+                <marker date="1539199672167" expanded="true" signature="233:730" ph="/* Gameplay: ... */" />
+                <marker date="1539199672167" expanded="true" signature="732:821" ph="/* Classes ... */" />
+                <marker date="1539199672167" expanded="false" signature="829:938" ph="..." />
+                <marker date="1539199672167" expanded="true" signature="965:2112" ph="{...}" />
+                <marker date="1539199672167" expanded="true" signature="994:2110" ph="{...}" />
+                <marker date="1539199672167" expanded="true" signature="1048:2104" ph="{...}" />
+                <marker date="1539199672167" expanded="true" signature="1071:1160" ph="/* creating  a array to store the game board ... */" />
+                <marker date="1539199672167" expanded="true" signature="1823:1929" ph="/* storing the random gameboard result ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MineSweeperGame/GameBoard.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="83" column="43" selection-start-line="83" selection-start-column="43" selection-end-line="83" selection-end-column="43" />
+              <folding>
+                <marker date="1539200613371" expanded="true" signature="0:253" ph="/* Program/Project: Assignment 1 Mine Sweeper Game ... */" />
+                <marker date="1539200613371" expanded="true" signature="260:369" ph="..." />
+                <marker date="1539200613371" expanded="true" signature="396:4694" ph="{...}" />
+                <marker date="1539200613371" expanded="true" signature="427:4388" ph="{...}" />
+                <marker date="1539200613371" expanded="true" signature="443:832" ph="/* Implements all the game board functionalities ... */" />
+                <marker date="1539200613371" expanded="true" signature="1061:1363" ph="{...}" />
+                <marker date="1539200613371" expanded="true" signature="1397:1461" ph="{...}" />
+                <marker date="1539200613371" expanded="true" signature="1548:2897" ph="{...}" />
+                <marker date="1539200613371" expanded="true" signature="1626:2887" ph="{...}" />
+                <marker date="1539200613371" expanded="true" signature="1713:2873" ph="{...}" />
+                <marker date="1539200613371" expanded="true" signature="1842:2854" ph="{...}" />
+                <marker date="1539200613371" expanded="true" signature="2989:3891" ph="{...}" />
+                <marker date="1539200613371" expanded="true" signature="3160:3849" ph="{...}" />
+                <marker date="1539200613371" expanded="true" signature="3246:3755" ph="{...}" />
+                <marker date="1539200613371" expanded="true" signature="3317:3405" ph="{...}" />
+                <marker date="1539200613371" expanded="true" signature="3507:3624" ph="{...}" />
+                <marker date="1539200613371" expanded="true" signature="3649:3737" ph="{...}" />
+                <marker date="1539200613371" expanded="true" signature="3925:4382" ph="{...}" />
+                <marker date="1539200613371" expanded="true" signature="4410:4692" ph="{...}" />
+                <marker date="1539200613371" expanded="true" signature="4562:4686" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MineSweeperGameTest/Tests.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="556">
+              <caret line="59" selection-start-line="59" selection-end-line="59" />
+              <folding>
+                <marker date="1539201455012" expanded="true" signature="1:640" ph="/* UNIT TEST ... */" />
+                <marker date="1539201455012" expanded="false" signature="648:691" ph="..." />
+                <marker date="1539201455012" expanded="true" signature="722:1516" ph="{...}" />
+                <marker date="1539201455012" expanded="true" signature="747:1514" ph="{...}" />
+                <marker date="1539201455012" expanded="true" signature="825:1508" ph="{...}" />
+                <marker date="1539201455012" expanded="true" signature="1262:1392" ph="{...}" />
+                <marker date="1539201455012" expanded="true" signature="1310:1378" ph="{...}" />
+                <marker date="1539201455012" expanded="true" signature="1405:1443" ph="/* response = 13; ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestProject2/Tests.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
+              <folding>
+                <marker date="1539188444901" expanded="true" signature="0:639" ph="/* UNIT TEST ... */" />
+                <marker date="1539188444901" expanded="false" signature="647:690" ph="..." />
+                <marker date="1539188444901" expanded="true" signature="749:1516" ph="{...}" />
+                <marker date="1539188444901" expanded="true" signature="827:1510" ph="{...}" />
+                <marker date="1539188444901" expanded="true" signature="1264:1394" ph="{...}" />
+                <marker date="1539188444901" expanded="true" signature="1312:1380" ph="{...}" />
+                <marker date="1539188444901" expanded="true" signature="1407:1445" ph="/* response = 13; ... */" />
               </folding>
             </state>
           </provider>
@@ -75,27 +365,23 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MineSweeperGame/Bombs.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="598">
-              <caret line="46" column="13" lean-forward="true" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
-              <folding>
-                <marker date="1538627069751" expanded="true" signature="0:257" ph="/* Program/Project: Assignment 1 Mine Sweeper Game ... */" />
-                <marker date="1538627069751" expanded="false" signature="264:373" ph="..." />
-                <marker date="1538627069751" expanded="true" signature="400:1579" ph="{...}" />
-                <marker date="1538627069751" expanded="true" signature="418:1577" ph="{...}" />
-                <marker date="1538627069751" expanded="true" signature="468:1571" ph="{...}" />
-                <marker date="1538627069751" expanded="true" signature="854:930" ph="/* 0 = empty and 1= bomb ... */" />
-                <marker date="1538627069751" expanded="true" signature="970:1129" ph="{...}" />
-                <marker date="1538627069751" expanded="true" signature="1029:1115" ph="{...}" />
-                <marker date="1538627069751" expanded="true" signature="1231:1527" ph="{...}" />
-                <marker date="1538627069751" expanded="true" signature="1383:1513" ph="{...}" />
-              </folding>
+            <state relative-caret-position="690">
+              <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/MineSweeperTests/MineSweeperTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestProject1/Tests.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MineSweeperGame/GameBoard.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestProject2/Tests.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MineSweeperGameTest/Tests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MineSweeperGame/Bombs.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MineSweeperGame/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -103,6 +389,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/MineSweeperGame/Bombs.cs" />
+        <option value="$PROJECT_DIR$/MineSweeperTests/MineSweeperTest.cs" />
+        <option value="$PROJECT_DIR$/TestProject1/Tests.cs" />
+        <option value="$PROJECT_DIR$/TestProject2/Tests.cs" />
+        <option value="$PROJECT_DIR$/MineSweeperGame/Program.cs" />
+        <option value="$PROJECT_DIR$/MineSweeperGame/GameBoard.cs" />
+        <option value="$PROJECT_DIR$/MineSweeperGameTest/Tests.cs" />
       </list>
     </option>
   </component>
@@ -112,19 +404,19 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1" />
     <option name="y" value="47" />
     <option name="width" value="1279" />
     <option name="height" value="914" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <autoscrollFromSource SolutionExplorer="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -137,11 +429,23 @@
               <item name="MineSweeperGame" type="24d0babc:SolutionExplorerModelNode" />
               <item name="MineSweeperGame" type="24d0babc:SolutionExplorerModelNode" />
             </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="MineSweeperGame" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="MineSweeperGameTest" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="MineSweeperGame" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="MineSweeperGameTest" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="References" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -163,7 +467,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected=".NET Project.Default">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="$PROJECT_DIR$/MineSweeperGame/bin/Debug/MineSweeperGame.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -182,6 +486,9 @@
         <option name="Build" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue=".NET Project.Default" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -196,11 +503,15 @@
       <workItem from="1538615469076" duration="182000" />
       <workItem from="1538625899715" duration="643000" />
       <workItem from="1538626743999" duration="371000" />
+      <workItem from="1538951056183" duration="2062000" />
+      <workItem from="1538968418090" duration="961000" />
+      <workItem from="1539186734106" duration="530000" />
+      <workItem from="1539191839892" duration="2531000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1196000" />
+    <option name="totallyTimeSpent" value="7280000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -212,15 +523,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="47" width="1279" height="914" extended-state="0" />
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25790754" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27613726" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Build" sideWeight="0.49797243" weight="0.32951653" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4971614" weight="0.4491094" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49162012" weight="0.37846655" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -229,13 +539,14 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unit Tests" order="11" sideWeight="0.49959448" weight="0.32951653" />
+      <window_info active="true" anchor="bottom" id="Unit Tests" order="11" sideWeight="0.8188348" visible="true" weight="0.32626426" />
       <window_info anchor="bottom" id="Terminal" order="12" />
-      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5028386" side_tool="true" visible="true" weight="0.32951653" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.1811652" side_tool="true" visible="true" weight="0.32626426" />
+      <window_info anchor="bottom" id="Build" order="14" sideWeight="0.49002394" weight="0.28711256" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Errors In Solution" order="3" visible="true" weight="0.17031631" />
+      <window_info anchor="right" id="Errors In Solution" order="3" visible="true" weight="0.16999201" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
@@ -258,45 +569,111 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MineSweeperGame/Program.cs">
+    <entry file="file://$PROJECT_DIR$/MineSweeperTests/MineSweeperTest.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="49" column="16" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
+        <state relative-caret-position="240">
+          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestProject1/Tests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MineSweeperGame/MineSweeperGame.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestProject2/Tests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
           <folding>
-            <marker date="1538592144732" expanded="true" signature="0:231" ph="/* Program/Project: Assignment 1 Mine Sweeper Game ... */" />
-            <marker date="1538592144732" expanded="true" signature="233:730" ph="/* Gameplay: ... */" />
-            <marker date="1538592144732" expanded="true" signature="732:821" ph="/* Classes ... */" />
-            <marker date="1538592144732" expanded="false" signature="829:938" ph="..." />
-            <marker date="1538592144732" expanded="true" signature="965:1505" ph="{...}" />
-            <marker date="1538592144732" expanded="true" signature="985:1503" ph="{...}" />
-            <marker date="1538592144732" expanded="true" signature="1031:1497" ph="{...}" />
+            <marker date="1539188444901" expanded="true" signature="0:639" ph="/* UNIT TEST ... */" />
+            <marker date="1539188444901" expanded="false" signature="647:690" ph="..." />
+            <marker date="1539188444901" expanded="true" signature="749:1516" ph="{...}" />
+            <marker date="1539188444901" expanded="true" signature="827:1510" ph="{...}" />
+            <marker date="1539188444901" expanded="true" signature="1264:1394" ph="{...}" />
+            <marker date="1539188444901" expanded="true" signature="1312:1380" ph="{...}" />
+            <marker date="1539188444901" expanded="true" signature="1407:1445" ph="/* response = 13; ... */" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MineSweeperGame/Bombs.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="46" column="13" lean-forward="true" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+        <state relative-caret-position="690">
+          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MineSweeperGame/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="69" column="12" selection-start-line="69" selection-start-column="12" selection-end-line="69" selection-end-column="12" />
           <folding>
-            <marker date="1538627069751" expanded="true" signature="0:257" ph="/* Program/Project: Assignment 1 Mine Sweeper Game ... */" />
-            <marker date="1538627069751" expanded="false" signature="264:373" ph="..." />
-            <marker date="1538627069751" expanded="true" signature="400:1579" ph="{...}" />
-            <marker date="1538627069751" expanded="true" signature="418:1577" ph="{...}" />
-            <marker date="1538627069751" expanded="true" signature="468:1571" ph="{...}" />
-            <marker date="1538627069751" expanded="true" signature="854:930" ph="/* 0 = empty and 1= bomb ... */" />
-            <marker date="1538627069751" expanded="true" signature="970:1129" ph="{...}" />
-            <marker date="1538627069751" expanded="true" signature="1029:1115" ph="{...}" />
-            <marker date="1538627069751" expanded="true" signature="1231:1527" ph="{...}" />
-            <marker date="1538627069751" expanded="true" signature="1383:1513" ph="{...}" />
+            <marker date="1539199672167" expanded="true" signature="0:231" ph="/* Program/Project: Assignment 1 Mine Sweeper Game ... */" />
+            <marker date="1539199672167" expanded="true" signature="233:730" ph="/* Gameplay: ... */" />
+            <marker date="1539199672167" expanded="true" signature="732:821" ph="/* Classes ... */" />
+            <marker date="1539199672167" expanded="false" signature="829:938" ph="..." />
+            <marker date="1539199672167" expanded="true" signature="965:2112" ph="{...}" />
+            <marker date="1539199672167" expanded="true" signature="994:2110" ph="{...}" />
+            <marker date="1539199672167" expanded="true" signature="1048:2104" ph="{...}" />
+            <marker date="1539199672167" expanded="true" signature="1071:1160" ph="/* creating  a array to store the game board ... */" />
+            <marker date="1539199672167" expanded="true" signature="1823:1929" ph="/* storing the random gameboard result ... */" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MineSweeperGame/MineSweeperGame.csproj">
+    <entry file="file://$PROJECT_DIR$/MineSweeperGame/GameBoard.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        <state relative-caret-position="285">
+          <caret line="83" column="43" selection-start-line="83" selection-start-column="43" selection-end-line="83" selection-end-column="43" />
+          <folding>
+            <marker date="1539200613371" expanded="true" signature="0:253" ph="/* Program/Project: Assignment 1 Mine Sweeper Game ... */" />
+            <marker date="1539200613371" expanded="true" signature="260:369" ph="..." />
+            <marker date="1539200613371" expanded="true" signature="396:4694" ph="{...}" />
+            <marker date="1539200613371" expanded="true" signature="427:4388" ph="{...}" />
+            <marker date="1539200613371" expanded="true" signature="443:832" ph="/* Implements all the game board functionalities ... */" />
+            <marker date="1539200613371" expanded="true" signature="1061:1363" ph="{...}" />
+            <marker date="1539200613371" expanded="true" signature="1397:1461" ph="{...}" />
+            <marker date="1539200613371" expanded="true" signature="1548:2897" ph="{...}" />
+            <marker date="1539200613371" expanded="true" signature="1626:2887" ph="{...}" />
+            <marker date="1539200613371" expanded="true" signature="1713:2873" ph="{...}" />
+            <marker date="1539200613371" expanded="true" signature="1842:2854" ph="{...}" />
+            <marker date="1539200613371" expanded="true" signature="2989:3891" ph="{...}" />
+            <marker date="1539200613371" expanded="true" signature="3160:3849" ph="{...}" />
+            <marker date="1539200613371" expanded="true" signature="3246:3755" ph="{...}" />
+            <marker date="1539200613371" expanded="true" signature="3317:3405" ph="{...}" />
+            <marker date="1539200613371" expanded="true" signature="3507:3624" ph="{...}" />
+            <marker date="1539200613371" expanded="true" signature="3649:3737" ph="{...}" />
+            <marker date="1539200613371" expanded="true" signature="3925:4382" ph="{...}" />
+            <marker date="1539200613371" expanded="true" signature="4410:4692" ph="{...}" />
+            <marker date="1539200613371" expanded="true" signature="4562:4686" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MineSweeperGameTest/Tests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="556">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+          <folding>
+            <marker date="1539201455012" expanded="true" signature="1:640" ph="/* UNIT TEST ... */" />
+            <marker date="1539201455012" expanded="false" signature="648:691" ph="..." />
+            <marker date="1539201455012" expanded="true" signature="722:1516" ph="{...}" />
+            <marker date="1539201455012" expanded="true" signature="747:1514" ph="{...}" />
+            <marker date="1539201455012" expanded="true" signature="825:1508" ph="{...}" />
+            <marker date="1539201455012" expanded="true" signature="1262:1392" ph="{...}" />
+            <marker date="1539201455012" expanded="true" signature="1310:1378" ph="{...}" />
+            <marker date="1539201455012" expanded="true" signature="1405:1443" ph="/* response = 13; ... */" />
+          </folding>
         </state>
       </provider>
     </entry>
